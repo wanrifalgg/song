@@ -1,1 +1,89 @@
-{"songs":[{"id":0,"title":"HALISUSSUNG","artist":"WanrifalRemix","duration":"0:00","url":"https://cdn.jsdelivr.net/gh/wanrifalgg/song@main/HALISUSSUNG.mp3"},{"id":0,"title":"Pareman Lottong","artist":"WanrifalRemix","duration":"0:00","url":"https://cdn.jsdelivr.net/gh/wanrifalgg/song@main/Pareman%20Lottong.mp3"},{"id":0,"title":"Cinta Cintaku","artist":"WanrifalRemix","duration":"0:00","url":"https://cdn.jsdelivr.net/gh/wanrifalgg/song@main/Cinta%20Cintaku.mp3"},{"id":0,"title":"Koboy Sussi Koring R2","artist":"WanrifalRemix","duration":"0:00","url":"https://cdn.jsdelivr.net/gh/wanrifalgg/song@main/Koboy%20Sussi%20Koring%20R2.mp3"},{"id":0,"title":"Dengar Dia Panggil","artist":"WanrifalRemix","duration":"0:00","url":"https://cdn.jsdelivr.net/gh/wanrifalgg/song@main/Dengar%20Dia%20Panggil.mp3"},{"id":0,"title":"Margogo Ijur Bari","artist":"WanrifalRemix","duration":"0:00","url":"https://cdn.jsdelivr.net/gh/wanrifalgg/song@main/Margogo%20Ijur%20Bari.mp3"},{"id":0,"title":"Napakkat Do Nakaya","artist":"WanrifalRemix","duration":"0:00","url":"https://cdn.jsdelivr.net/gh/wanrifalgg/song@main/napakkat%20do%20nakaya.mp3"},{"id":0,"title":"Nyanyikanlah Nyanyian baru","artist":"WanrifalRemix","duration":"0:00","url":"https://cdn.jsdelivr.net/gh/wanrifalgg/song@main/Nyanyikanlah%20Nyanyian%20baru.mp3"},{"id":0,"title":"Tudia nama au lao","artist":"WanrifalRemix","duration":"0:00","url":"https://cdn.jsdelivr.net/gh/wanrifalgg/song@main/Tudia%20nama%20au%20lao.mp3"},{"id":0,"title":"Unang Tinggalhon Au","artist":"WanrifalRemix","duration":"0:00","url":"https://cdn.jsdelivr.net/gh/wanrifalgg/song@main/Unang%20Tinggalhon%20Au.mp3"},{"id":0,"title":"Babi Panggang","artist":"WanrifalRemix","duration":"0:00","url":"https://cdn.jsdelivr.net/gh/wanrifalgg/song@main/Babi%20Panggang.mp3"},{"id":0,"title":"Tortorhon","artist":"WanrifalRemix","duration":"0:00","url":"https://cdn.jsdelivr.net/gh/wanrifalgg/song@main/tortorhon.mp3"},{"id":0,"title":"Salendang Beng beng","artist":"WanrifalRemix","duration":"0:00","url":"https://cdn.jsdelivr.net/gh/wanrifalgg/song@main/salendang%20beng%20beng.mp3"},{"id":0,"title":"Bangso Batak","artist":"WanrifalRemix","duration":"0:00","url":"https://cdn.jsdelivr.net/gh/wanrifalgg/song@main/Bangso%20Batak.mp3"},{"id":0,"title":"Somba ma Jahowa","artist":"WanrifalRemix","duration":"0:00","url":"https://cdn.jsdelivr.net/gh/wanrifalgg/song@main/Somba%20ma%20Jahowa.mp3"},{"id":0,"title":"Koboy cuci kering final","artist":"WanrifalRemix","duration":"0:00","url":"https://cdn.jsdelivr.net/gh/wanrifalgg/song@main/koboy%20cuci%20kering%20final.mp3"},{"id":0,"title":"CUEK DIMALAM MINGGU","artist":"WanrifalRemix","duration":"0:00","url":"https://cdn.jsdelivr.net/gh/wanrifalgg/song@main/CUEK%20DIMALAM%20MINGGU.mp3"},{"id":0,"title":"HABANG BIRRIT BIRRIT","artist":"WanrifalRemix","duration":"0:00","url":"https://cdn.jsdelivr.net/gh/wanrifalgg/song@main/HABANG%20BIRRIT%20BIRRIT.mp3"},{"id":0,"title":"ALAI ADOGEMMA","artist":"WanrifalRemix","duration":"0:00","url":"https://cdn.jsdelivr.net/gh/wanrifalgg/song@main/ALAI%20ADOGEMMA.mp3"},{"id":0,"title":"unang be sai ro ho","artist":"WanrifalRemix","duration":"0:00","url":"https://cdn.jsdelivr.net/gh/wanrifalgg/song@main/unang%20be%20sai%20ro%20ho.mp3"},{"id":0,"title":"partiktok 2","artist":"WanrifalRemix","duration":"0:00","url":"https://cdn.jsdelivr.net/gh/wanrifalgg/song@main/partiktok%202.mp3"},{"id":22,"title":"ago yamang final","artist":"Wanrifal Remix","duration":"3:00","url":"https://cdn.jsdelivr.net/gh/wanrifalgg/song@main/9c34e9ce-1c48-4c5d-9b82-5faae6afa8d9.mp3"}]}
+@@ -1,88 +1 @@
+{
+  "songs": [
+    {
+      "title": "HALISUSSUNG",
+      "url": "https://cdn.jsdelivr.net/gh/wanrifalgg/song@main/HALISUSSUNG.mp3"
+    },
+    {
+      "title": "Pareman Lottong",
+      "url": "https://cdn.jsdelivr.net/gh/wanrifalgg/song@main/Pareman%20Lottong.mp3"
+    },
+    {
+      "title": "Cinta Cintaku",
+      "url": "https://cdn.jsdelivr.net/gh/wanrifalgg/song@main/Cinta%20Cintaku.mp3"
+    },
+    {
+      "title": "Koboy Sussi Koring R2",
+      "url": "https://cdn.jsdelivr.net/gh/wanrifalgg/song@main/Koboy%20Sussi%20Koring%20R2.mp3"
+    },
+    {
+      "title": "Dengar Dia Panggil",
+      "url": "https://cdn.jsdelivr.net/gh/wanrifalgg/song@main/Dengar%20Dia%20Panggil.mp3"
+    },
+    {
+      "title": "Margogo Ijur Bari",
+      "url": "https://cdn.jsdelivr.net/gh/wanrifalgg/song@main/Margogo%20Ijur%20Bari.mp3"
+    },
+    {
+      "title": "Napakkat Do Nakaya",
+      "url": "https://cdn.jsdelivr.net/gh/wanrifalgg/song@main/napakkat%20do%20nakaya.mp3"
+    },
+    {
+      "title": "Nyanyikanlah Nyanyian baru",
+      "url": "https://cdn.jsdelivr.net/gh/wanrifalgg/song@main/Nyanyikanlah%20Nyanyian%20baru.mp3"
+    },
+    {
+      "title": "Tudia nama au lao",
+      "url": "https://cdn.jsdelivr.net/gh/wanrifalgg/song@main/Tudia%20nama%20au%20lao.mp3"
+    },
+    {
+      "title": "Unang Tinggalhon Au",
+      "url": "https://cdn.jsdelivr.net/gh/wanrifalgg/song@main/Unang%20Tinggalhon%20Au.mp3"
+    },
+    {
+      "title": "Babi Panggang",
+      "url": "https://cdn.jsdelivr.net/gh/wanrifalgg/song@main/Babi%20Panggang.mp3"
+    },
+    {
+      "title": "Tortorhon",
+      "url": "https://cdn.jsdelivr.net/gh/wanrifalgg/song@main/tortorhon.mp3"
+    },
+    {
+      "title": "Salendang Beng beng",
+      "url": "https://cdn.jsdelivr.net/gh/wanrifalgg/song@main/salendang%20beng%20beng.mp3"
+    },
+    {
+      "title": "Bangso Batak",
+      "url": "https://cdn.jsdelivr.net/gh/wanrifalgg/song@main/Bangso%20Batak.mp3"
+    },
+    {
+      "title": "Somba ma Jahowa",
+      "url": "https://cdn.jsdelivr.net/gh/wanrifalgg/song@main/Somba%20ma%20Jahowa.mp3"
+    },
+    {
+      "title": "Koboy cuci kering final",
+      "url": "https://cdn.jsdelivr.net/gh/wanrifalgg/song@main/koboy%20cuci%20kering%20final.mp3"
+    },
+    {
+      "title": "CUEK DIMALAM MINGGU",
+      "url": "https://cdn.jsdelivr.net/gh/wanrifalgg/song@main/CUEK%20DIMALAM%20MINGGU.mp3"
+    },
+    {
+      "title": "HABANG BIRRIT BIRRIT",
+      "url": "https://cdn.jsdelivr.net/gh/wanrifalgg/song@main/HABANG%20BIRRIT%20BIRRIT.mp3"
+    },
+    {
+      "title": "ALAI ADOGEMMA",
+      "url": "https://cdn.jsdelivr.net/gh/wanrifalgg/song@main/ALAI%20ADOGEMMA.mp3"
+    },
+    {
+      "title": "unang be sai ro ho",
+      "url": "https://cdn.jsdelivr.net/gh/wanrifalgg/song@main/unang%20be%20sai%20ro%20ho.mp3"
+    },
+    {
+      "title": "partiktok 2",
+      "url": "https://cdn.jsdelivr.net/gh/wanrifalgg/song@main/partiktok%202.mp3"
+    }
+  ]
+}
